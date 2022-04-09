@@ -1,6 +1,8 @@
 # My Bot MD
 
-https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/MDBOT)
+  
 
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=raselcomel/mymd"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=raselcomel/mymd"></a>
